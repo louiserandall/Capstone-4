@@ -1,4 +1,4 @@
-# Capstone-4 Date Visualisation
+# Capstone-4 Data Visualisation
 
 EDA Forbes Highest Paid Athletes 1990- 2020
 
